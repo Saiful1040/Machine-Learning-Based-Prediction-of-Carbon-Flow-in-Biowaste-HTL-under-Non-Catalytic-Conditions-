@@ -1,2 +1,2 @@
 # Machine-Learning-Based-Prediction-of-Carbon-Flow-in-Biowaste-HTL-under-Non-Catalytic-Conditions-
-Hydrothermal carbonization (HTC) converts biowaste into solid hydrochar, liquid organics, and gaseous by-products under subcritical water conditions. Recent advances in machine learning (ML) provide flexible, data-driven alternatives for modeling such multivariate, non-linear systems.
+Updated [November 10,2025]Hydrothermal carbonization (HTC) converts biowaste into solid hydrochar, liquid organics, and gaseous by-products under subcritical water conditions. Recent advances in machine learning (ML) provide flexible, data-driven alternatives for modeling such multivariate, non-linear systems.
